@@ -1,11 +1,13 @@
-<ActionBar title="My App"> </ActionBar>
+<ActionBar
+  title="Vision Pro with NativeScript - Multiple Scenes and Particle Systems"
+>
+</ActionBar>
 
-<GridLayout>
-  <ListView [items]="items">
-    <ng-template let-item="item">
-      <StackLayout [nsRouterLink]="['/item', item.id]" class="p-4">
-        <Label [text]="item.name" class="text-3xl"></Label>
-      </StackLayout>
-    </ng-template>
-  </ListView>
-</GridLayout>
+<ListView [items]="dataService.items">
+  <ng-template let-model="item">
+    <GridLayout class="p-6" columns="55,*" (tap)="openSceneWindow(model)">
+      <Label [text]="model.icon | fonticon" class="ion ml-2 text-4xl"></Label>
+      <Label col="1" [text]="model.id" class="ml-4 text-4xl"></Label>
+    </GridLayout>
+  </ng-template>
+</ListView>

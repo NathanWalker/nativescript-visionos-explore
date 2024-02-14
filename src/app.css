@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.ion {
+  font-family: "Ionicons", ionicons;
+  color: white;
+}
