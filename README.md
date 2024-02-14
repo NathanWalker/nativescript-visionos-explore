@@ -2,9 +2,10 @@
 <img src="https://docs.nativescript.org/assets/vision-pro.420753ac.png" height="150" alt="Vision Pro" style="float:left; display:inline-block;" /><img src="https://art.nativescript.org/logo/export/NativeScript_Logo_Blue_Transparent.svg" height="150" alt="NativeScript" style="display:inline-block;" />
 </div>
 
+https://github.com/NathanWalker/nativescript-visionos-explore/assets/457187/ce4c6a7d-2e1a-4130-908d-f40bf022c90d
+
 ### Setup
 
-Prerequisites:
 - [NativeScript Environment Setup](https://docs.nativescript.org/setup/macos#setting-up-macos-for-ios)
   - Install `vision` tagged CLI: `npm install -g nativescript@vision`
   - Learn more here: https://docs.nativescript.org/guide/visionos
