@@ -14,7 +14,7 @@
     "@angular/router": "~17.1.0",
     "@nativescript/angular": "^17.0.0",
     "@nativescript/core": "~8.7.0-alpha.7",
-    "@nativescript/swift-ui": "~2.0.0-vision.4",
+    "@nativescript/swift-ui": "~2.0.0",
     "nativescript-fonticon": "^8.0.2",
     "rxjs": "~7.8.0",
     "zone.js": "~0.14.0"
