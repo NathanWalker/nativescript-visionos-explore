@@ -8,7 +8,7 @@ Prerequisites:
 - [NativeScript Environment Setup](https://docs.nativescript.org/setup/macos#setting-up-macos-for-ios)
   - Install `vision` tagged CLI: `npm install -g nativescript@vision`
   - Learn more here: https://docs.nativescript.org/guide/visionos
-- [Xcode 15.2 Installed for Vision Pro Simulator](https://developer.apple.com/download/applications/)
+- [Xcode 15.2 or higher installed for Vision Pro Simulator](https://developer.apple.com/download/applications/)
 
 ### Run the Vision Pro App
 
