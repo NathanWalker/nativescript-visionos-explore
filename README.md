@@ -16,3 +16,7 @@ https://github.com/NathanWalker/nativescript-visionos-explore/assets/457187/ce4c
 ```bash
 ns run vision --no-hmr
 ```
+
+### Credits
+
+- the excellent [Vortex](https://github.com/twostraws/vortex) particle effects by [@twostraws](https://x.com/twostraws)
