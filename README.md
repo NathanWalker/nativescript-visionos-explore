@@ -1,6 +1,6 @@
-<div style="margin:0 auto">
+<p align="center">
 <img src="https://github.com/NathanWalker/nativescript-visionos-explore/assets/457187/e12f61e1-490e-4e23-ac9e-a340278dba07" height="150" alt="Vision Pro development with NativeScript" />
-</div>
+</p>
 
 https://github.com/NathanWalker/nativescript-visionos-explore/assets/457187/ce4c6a7d-2e1a-4130-908d-f40bf022c90d
 
