@@ -1,5 +1,5 @@
-<div>
-<img src="https://docs.nativescript.org/assets/vision-pro.420753ac.png" height="150" alt="Vision Pro" style="float:left; display:inline-block;" /><img src="https://art.nativescript.org/logo/export/NativeScript_Logo_Blue_Transparent.svg" height="150" alt="NativeScript" style="display:inline-block;" />
+<div style="margin:0 auto">
+<img src="https://github.com/NathanWalker/nativescript-visionos-explore/assets/457187/e12f61e1-490e-4e23-ac9e-a340278dba07" height="150" alt="Vision Pro development with NativeScript" />
 </div>
 
 https://github.com/NathanWalker/nativescript-visionos-explore/assets/457187/ce4c6a7d-2e1a-4130-908d-f40bf022c90d
@@ -19,4 +19,4 @@ ns run vision --no-hmr
 
 ### Credits
 
-- the excellent [Vortex](https://github.com/twostraws/vortex) particle effects by [@twostraws](https://x.com/twostraws)
+- Thank you to [@twostraws](https://x.com/twostraws) for the excellent [Vortex](https://github.com/twostraws/vortex) particle effects library 
