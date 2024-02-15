@@ -17,6 +17,13 @@ https://github.com/NathanWalker/nativescript-visionos-explore/assets/457187/ce4c
 ns run vision --no-hmr
 ```
 
+## Run on StackBlitz
+
+If you have a Vision Pro device, you can also run this directly from StackBlitz:
+https://stackblitz.com/edit/nativescript-vision-pro-explore?file=src%2Fapp%2Fitem%2Fitems.component.ts
+
+Instructions of use: https://docs.nativescript.org/guide/visionos-preview
+
 ### Credits
 
 - Thank you to [@twostraws](https://x.com/twostraws) for the excellent [Vortex](https://github.com/twostraws/vortex) particle effects library 
